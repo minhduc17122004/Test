@@ -31,7 +31,6 @@ class CategorySidebar extends StatelessWidget {
             borderRadius: _radiusFor(index),
             onTap: () => onSelected(index),
           );
-          // Item kề item được chọn cần nền trắng phía sau để lộ đường cong.
           if ((index - selectedIndex).abs() == 1) {
             return ColoredBox(color: AppColors.white, child: tile);
           }

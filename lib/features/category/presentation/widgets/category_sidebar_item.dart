@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../../../../core/constants/app_assets.dart';
 import '../../../../core/theme/app_colors.dart';
 
 class CategorySidebarItem extends StatelessWidget {
@@ -32,7 +33,12 @@ class CategorySidebarItem extends StatelessWidget {
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Image.asset(image, width: 48, height: 48, fit: BoxFit.contain),
+            Image.asset(
+              AppImages.airFilter,
+              width: 48,
+              height: 48,
+              fit: BoxFit.contain,
+            ),
             const SizedBox(height: 6),
             Text(
               name,
