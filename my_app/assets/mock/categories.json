@@ -1,0 +1,12 @@
+[
+  { "name": "Bộ Lọc Không Khí", "image": "assets/images/air_filter.png" },
+  { "name": "Bộ Lọc Dầu", "image": "assets/images/oil_filter.png" },
+  { "name": "Bộ Lọc Nhiên Liệu", "image": "assets/images/fuel_filter.png" },
+  { "name": "Bộ Lọc Trong Cabin", "image": "assets/images/cabin_air_filter.png" },
+  { "name": "Bộ Lọc Không Khí", "image": "assets/images/air_intake_filter.png" },
+  { "name": "Bộ Lọc Dầu", "image": "assets/images/air_filter_chev.png" },
+  { "name": "Bộ Lọc Nhiên Liệu", "image": "assets/images/oil_filter.png" },
+  { "name": "Bộ Lọc Trong Cabin", "image": "assets/images/fuel_filter.png" },
+  { "name": "Bộ Lọc Không Khí", "image": "assets/images/cabin_air_filter.png" },
+  { "name": "Bộ Lọc Dầu", "image": "assets/images/air_filter.png" }
+]

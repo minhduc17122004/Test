@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Lọc gió động cơ Air Filter – Chevrolet",
+    "price": "299,000 đ",
+    "oldPrice": "329,000 đ",
+    "discount": "-10%",
+    "badge": "Chỉ còn 1 sản phẩm",
+    "image": "assets/images/air_filter_chev.png"
+  },
+  {
+    "name": "Lọc dầu động cơ Bosch P 550335",
+    "price": "299,000 đ",
+    "oldPrice": "329,000 đ",
+    "discount": "-10%",
+    "badge": "Chỉ còn 1 sản phẩm",
+    "image": "assets/images/oil_filter.png"
+  },
+  {
+    "name": "Lọc nhiên liệu Mann WK 842/2",
+    "price": "349,000 đ",
+    "oldPrice": "390,000 đ",
+    "discount": "-10%",
+    "badge": "Chỉ còn 2 sản phẩm",
+    "image": "assets/images/fuel_filter.png"
+  },
+  {
+    "name": "Lọc gió điều hòa Denso DCC1014",
+    "price": "259,000 đ",
+    "oldPrice": "290,000 đ",
+    "discount": "-10%",
+    "badge": "Chỉ còn 3 sản phẩm",
+    "image": "assets/images/cabin_air_filter.png"
+  },
+  {
+    "name": "Lọc gió động cơ Mahle LX 1849",
+    "price": "329,000 đ",
+    "oldPrice": "365,000 đ",
+    "discount": "-10%",
+    "badge": "Chỉ còn 1 sản phẩm",
+    "image": "assets/images/air_intake_filter.png"
+  }
+]
