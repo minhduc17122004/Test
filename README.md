@@ -1,16 +1,21 @@
 # my_app
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+### Home
 
-This project is a starting point for a Flutter application.
+| Screen 1 | Screen 2 |
+| --- | --- |
+| ![Home page 1](home_page1.png) | ![Home page 2](home_page2.png) |
 
-A few resources to get you started if this is your first Flutter project:
+| Screen 3 | Screen 4 |
+| --- | --- |
+| ![Home page 3](home_page3.png) | ![Home page 4](home_page4.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Screen 5 | Screen 6 |
+| --- | --- |
+| ![Home page 5](home_page5.png) | ![Home page 6](home_page6.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Category
+
+![Category page](category_page.png)
