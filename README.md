@@ -1,4 +1,4 @@
-# my_app
+# UI_APP_TEST
 
 ## Screenshots
 
